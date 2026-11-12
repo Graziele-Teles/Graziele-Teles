@@ -1,30 +1,22 @@
-### Olá, sou a Graziele Teles! 👋
+# Graziele Teles
 
-<p align="left">
-  <img src="https://img.shields.io/badge/BI_Sênior_&_Analytics-Data-blue?style=for-the-badge&logo=databricks" />
-  <img src="https://img.shields.io/badge/Estatística-FMU-green?style=for-the-badge&logo=statista" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+Analista de BI e bacharel em Estatística pela FMU, com experiência nos setores farmacêutico, de bens de consumo e financeiro, em empresas como Aché, PagBank, Ambev e Kimberly-Clark.
 
----
+Atuo na área comercial, integrando dados de diferentes fontes, modelando bases e desenvolvendo relatórios e automações que apoiam as decisões do time.
 
-### 🚀 Sobre Mim
-Bacharel em **Estatística** e **Analista de BI Sênior** com sólida atuação nos setores farmacêutico, bens de consumo e serviços financeiros (Aché, PagBank, Ambev, Kimberly-Clark). 
+Atualmente cursando pós-graduação em Ciência de Dados e Big Data na PUC Minas. Este perfil reúne os projetos e estudos que desenvolvo fora do ambiente de trabalho.
 
-Especialista em arquitetura de dados, modelagem dimensional, automação de pipelines analíticos e desenvolvimento de soluções de alta performance para apoiar a excelência comercial e a tomada de decisão estratégica.
+## Ferramentas
 
----
+- SQL (SQL Server, Redshift, BigQuery)
+- Power BI e DAX
+- Databricks
+- Excel
 
-### 🛠️ Competências & Stack Tecnológica
-* **Dados & Cloud:** SQL Avançado (SQL Server, Redshift, BigQuery), Databricks, Modelagem e Integração de Múltiplas Fontes.
-* **BI & Visualização:** Power BI (DAX, Modelagem, Portais HTML), Excel Avançado, Automação de Rotinas.
-* **Estatística & Negócio:** Trade Marketing, Análise de Canais (Sell In/Sell Out), KPIs de Performance Comercial, Governança e Qualidade de Dados.
-* **Formação:** Graduação em Estatística e Pós-graduação em andamento em Ciência de Dados e Big Data (PUC Minas).
+## Áreas de atuação
 
----
+Trade marketing, E-commerce, análise de canais (sell in e sell out), indicadores de performance comercial, qualidade e governança de dados.
 
-### 📈 Estatísticas do GitHub
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Graziele-Teles&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## Contato
+
+[LinkedIn] https://www.linkedin.com/in/graziele-teles-68b35b1a8
