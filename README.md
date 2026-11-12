@@ -1,4 +1,4 @@
-# Graziele Teles
+# Graziele da Paixão Teles
 
 Analista de BI e bacharel em Estatística pela FMU, com experiência nos setores farmacêutico, de bens de consumo e financeiro, em empresas como Aché, PagBank, Ambev e Kimberly-Clark.
 
